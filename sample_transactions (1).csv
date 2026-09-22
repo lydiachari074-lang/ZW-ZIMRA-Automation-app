@@ -1,0 +1,11 @@
+date,description,type,amount_excl_vat,supply_type,category,mixed_use
+2026-02-03,Sale of office furniture to ABC Ltd,sale,12000,,stock,
+2026-02-04,Export sale to South African customer,sale,8000,zero_rated,stock,
+2026-02-05,Sale of mealie meal - retail,sale,3000,,stock,
+2026-02-06,Residential property rental income,sale,2500,exempt,rental,
+2026-02-07,Purchase of stationery from Stationers Pvt Ltd,purchase,900,,overheads,
+2026-02-08,Purchase of passenger motor vehicle - Toyota Fortuner,purchase,45000,,capital goods,
+2026-02-09,Client entertainment - dinner with customer,purchase,600,,overheads,
+2026-02-10,Purchase of raw materials for production,purchase,15000,,stock,
+2026-02-12,Electricity bill - shared between factory and rented residential flat,purchase,2000,,overheads,yes
+2026-02-15,Bank charges,purchase,150,exempt,overheads,
